@@ -42,7 +42,7 @@ I'm a **Computer Engineering student** at **EHU/UPV (Bilbao)**, passionate about
 
 ## 📫 Get in touch
 
-- 📧 gonzaloperezgomez@example.com
+- 📧 gonzaloperezgo@gmail.com
 
 ---
 
