@@ -19,7 +19,7 @@ I'm a **Computer Engineering student** at **EHU/UPV (Bilbao)**, passionate about
 
 ### 📚 Libraries & Frameworks
 - **PyTorch**, **scikit-learn**, **Gym**
-- **pandas**, **Flask**, **NumPy**
+- **pandas**, **NumPy**
 
 ### 🐳 Tools & Platforms
 - **Docker**, **Git**, **GitHub**
