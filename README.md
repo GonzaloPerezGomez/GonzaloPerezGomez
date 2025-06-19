@@ -37,6 +37,7 @@ I'm a **Computer Engineering student** at **EHU/UPV (Bilbao)**, passionate about
 |---------|-------------|--------------|
 | [Frozen-Lake](https://github.com/GonzaloPerezGomez/Frozen-Lake) | Solving FrozenLake using Q-Learning and SARSA | Python, Gym, NumPy |
 | [Cart-Pole](https://github.com/GonzaloPerezGomez/Cart-Pole) | DQN agent for solving the CartPole environment | PyTorch, Gym |
+| [Snake](https://github.com/GonzaloPerezGomez/Snake) | CNN that uses frames to play Snake | PyTorch, Pygame, NumPy, Torchvision |
 | [More coming soon...]() | Working on new projects involving NLP and AI | - |
 
 
