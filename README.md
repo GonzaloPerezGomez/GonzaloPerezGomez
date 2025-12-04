@@ -47,7 +47,7 @@ I'm a **Computer Engineering student** at **EHU/UPV (Bilbao)**, passionate about
 ## 📫 Get in touch
 
 - 📧 gonzaloperezgo@gmail.com
-- - 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-perez-gomez/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-perez-gomez/)
 
 ---
 
