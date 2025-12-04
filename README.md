@@ -5,24 +5,28 @@ I'm a **Computer Engineering student** at **EHU/UPV (Bilbao)**, passionate about
 🧠 Currently learning and working on:
 - Reinforcement Learning
 - Natural Language Processing (NLP)
+- Investigating **RAG (Retrieval-Augmented Generation)** architectures and **Chunking** strategies for Biomedical NLP.
 
-📌 This summer, I'm doing a research internship with the **IXA Group**, focusing on AI applied to language.
+💼 **Experience:**
+- **Research Intern at Hitz Zentroa (Basque Center for Language Technology):** Working on advanced NLP systems applied to eHealth.
 
 ---
 
 ## 🛠 Technologies & Tools
 
 ### 🔧 Languages & Query Languages
-- **Python**, **Java**, **C**
+- **Python**, **Java**
 - **SQL**, **RDF/SPARQL**
 - **HTML/CSS/JS** (basic)
 
-### 📚 Libraries & Frameworks
-- **PyTorch**, **scikit-learn**, **Gym**
-- **pandas**, **NumPy**
+### 🧠 AI & Data Science
+- **Deep Learning:** PyTorch
+- **NLP:** Hugging Face Transformers
+- **Data:** pandas, NumPy, scikit-learn
+- **RL:** Gym, Stable Baselines3
 
 ### 🐳 Tools & Platforms
-- **Docker**, **Git**, **GitHub**
+- **Docker**, **Kubernetes**, **Git**, **GitHub**
 - **Windows** & **Ubuntu**
 
 ### 🖥️ IDEs & Editors
